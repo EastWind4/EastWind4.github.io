@@ -4,5 +4,5 @@
 
 ### Email: yashbrahmbhatt26@gmail.com
 
-<img align="left" src="https://github.com/EastWind4/EastWind4.github.io/blob/235cb9bb1f6b0bf014368c6b3df484253aaf7f25/coin.png" width="30" height="30" />
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnK6ymEmqvECAY6u8Y4ZDArHcG41BUjrsczgqF3VYBqg&s" width="30" height="30" />
 <b>Number of Hours: 15<b/>
